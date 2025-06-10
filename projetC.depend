@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1671039298 source:c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"bib.h"
+	"ajout.h"
+	"sup.h"
+	"menu.h"
+	"afficheStock.h"
+
+1671022086 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\bib.h
+
+1671038142 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\ajout.h
+
+1671038684 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\sup.h
+
+1671039344 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\menu.h
+
+1671039430 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\affichestock.h
+
